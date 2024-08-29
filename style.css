@@ -49,8 +49,8 @@ body{
     cursor: pointer;
     font-weight: bold;
     font-size: 28px;
-
 }
+
 
 .container-password{
     max-width: 480px;
@@ -106,8 +106,7 @@ body{
 }
 
 .hide {
-    display: nome;
-
+    display: none;
 }
 
 .container-password:hover .tooltip{
